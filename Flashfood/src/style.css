@@ -261,3 +261,20 @@ body{
     
    
 }
+
+.howitworks{
+    text-align: center;
+    
+    
+}
+.howitworks h1{
+    font-weight: 700;
+}
+
+.working-details{
+    width: 60%;
+    
+    
+    margin: auto;
+    background-color: rgb(200, 199, 190);
+}
